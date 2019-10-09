@@ -1,0 +1,17 @@
+{
+  "name": "my-algorithm",
+  "version": "1.0.0",
+  "description": "- [1. Getting started](#1-getting-started) - [2. Challenge](#2-challenge)   - [2.1. Examples](#21-examples)   - [2.2. Testing your solution](#22-testing-your-solution)   - [2.3. Submitting your solution](#23-submitting-your-solution)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Gilat Blumberger",
+  "license": "ISC",
+  "homepage": "https://github.com/gilatb/find-the-dancer#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
+  }
+}
